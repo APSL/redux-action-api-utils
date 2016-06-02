@@ -2,12 +2,12 @@
 
 import { generateActionsForFetchWithTypeName } from './lib/ActionUtils'
 import {
-  generateHandlerActionsForType,
+  handleFetchActionsForType,
   handleFetchActionsForTypes
 } from './lib/ReducerUtils'
 
 export {
   generateActionsForFetchWithTypeName,
-  generateHandlerActionsForType,
+  handleFetchActionsForType,
   handleFetchActionsForTypes
 }
