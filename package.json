@@ -1,0 +1,27 @@
+{
+  "name": "redux-action-api-utils",
+  "version": "0.0.1",
+  "description": "Redux actions utility for creating and handling REST API requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APSL/redux-action-api-utils.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "redux"
+  ],
+  "author": "Alvaro Medina Ballester <amedina@apsl.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/APSL/redux-action-api-utils/issues"
+  },
+  "homepage": "https://github.com/APSL/redux-action-api-utils#readme",
+  "dependencies": {
+    "redux-actions": "^0.9.1"
+  }
+}
